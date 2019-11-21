@@ -1,2 +1,6 @@
-# EFArmor
-Holds all EFArmor installer packages for users. 
+# 高级加密软件 - EFArmor
+大家好，欢迎使用高级加密软件 - EFArmor，在这里您可以获取EFArmor安装包；也可以通过提交您的问题。
+
+
+
+感谢您！
