@@ -19,6 +19,7 @@
     下载：
     1）通过Microsoft Store安装：在Microsoft的应用商店中搜索"EFArmor"，或者是“高级加密软件EFArmor”，然后点击安装。
     2）您可以通过如下的地址下载：
+       Version1.0.0: https://github.com/EFArmorSupport/EFArmor/tree/master/Standard/Version1.0.0
     
     注意：
     1）通过应用商店的安装的方式只适用于Windows 10的用户；并且只有64位版本。
