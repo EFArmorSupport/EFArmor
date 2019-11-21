@@ -1,0 +1,1 @@
+EFArmor-V1.0.0-x64-installer.exe: SHA1: 5c36bd00727fbeee2ba54baf46e58ca4638a0c21EFArmor-V1.0.0-x86-installer.exe: SHA1: 76f2f2d4d92ba94cd296ce87a3681ec00d3c76ae
