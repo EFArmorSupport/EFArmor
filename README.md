@@ -26,7 +26,7 @@
     软件支持的操作系统平台： 
     Microsoft Windows 操作系统：Windows Vista 或以上平台。
     建议您使用 Windows 10 系统运行本软件。
-    
+       
     下载：
     1）通过Microsoft Store安装：在Microsoft的应用商店中搜索"EFArmor"，
        或者是“高级加密软件EFArmor”，然后点击安装。
@@ -53,4 +53,8 @@
     2）注册费用：150 RMB。
        优惠期间：120 RMB，时间：2019-11-21 至 2020-01-30。
 
+
+联系方式：
+Skype: efarmor@outlook.com
+E-Mail: efarmor@outlook.com
 感谢您！
