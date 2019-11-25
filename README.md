@@ -27,34 +27,34 @@
     Microsoft Windows 操作系统：Windows Vista 或以上平台。
     建议您使用 Windows 10 系统运行本软件。
        
-    下载：
+# 下载：
     1）通过Microsoft Store安装：在Microsoft的应用商店中搜索"EFArmor"，
        或者是“高级加密软件EFArmor”，然后点击安装。
     2）您可以通过如下的地址下载：
        Version-1.0.0: 
        https://github.com/EFArmorSupport/EFArmor/tree/master/Standard/Version1.0.0
     
-    注意：
     1）通过应用商店的安装的方式只适用于Windows 10的用户；并且只有64位版本。
-    2）下载网址中包含了32位和64位两个版本，您可以根据需要进行下载使用。
-    3）EFArmor Standard可以供您用于评估，或免费使用（没有时间限制）；
-       在您未注册前，软件只支持一种加密算法（AES）。完成注册后，软件可以使
-        用完整的加密功能：
-       A. 加密算法：RC2, RC4, AES, DES, DESX, 3DES, 3DES_112 
-       B. Hash算法：MD5, SHA1, SHA256, SHA384, SHA512
+    
 
-    注册软件
-    1）请把您的注册请求发送至：
-       efarmor@outlook.com，注册需要的信息：用户名称，电子邮件地址。
+# 购买/注册软件
+   1）下载链接中包含了32位和64位两个版本，您可以根据需要进行下载使用。
+   2）EFArmor Standard可以供您用于评估，或免费使用（没有时间限制）；
+      在您未注册前，软件只支持一种加密算法（AES）。完成注册后，软件可以使
+      用完整的加密功能：
+      A. 加密算法：RC2, RC4, AES, DES, DESX, 3DES, 3DES_112 
+      B. Hash算法：MD5, SHA1, SHA256, SHA384, SHA512
+   3）请把您的注册请求发送至：
+      efarmor@outlook.com，注册需要的信息：用户名称，电子邮件地址。
       特别说明：
       A. 注册软件需要的信息，仅仅用于注册软件，不会用于其它任何商业用途。
       B. 除非得到您的同意，不会向您的电子邮件地址发送任何有关EFArmor产品信息。
-      
-    2）注册费用：150 RMB。
-       优惠期间：120 RMB，时间：2019-11-21 至 2020-01-30。
+       
+   4）注册费用：150 RMB。
+      优惠期间：120 RMB，时间：2019-11-21 至 2020-01-30。
 
 
-联系方式：
+# 联系方式：
 
 Skype: efarmor@outlook.com
 
