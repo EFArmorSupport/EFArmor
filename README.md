@@ -51,6 +51,8 @@
 
 # 联系方式：
 
+QQ：418754948
+
 Skype: efarmor@outlook.com
 
 E-Mail: efarmor@outlook.com
