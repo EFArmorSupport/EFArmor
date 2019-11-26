@@ -58,6 +58,7 @@
 
 
 # Contact:
+QQ: 418754948
 
 Skype: efarmor@outlook.com
 
