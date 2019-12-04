@@ -32,7 +32,7 @@
        或者是“高级加密软件EFArmor”，然后点击安装。
        通过应用商店的安装的方式只适用于Windows 10的用户；并且只有64位版本。
     2）您可以通过如下的地址下载：
-       https://github.com/EFArmorSupport/EFArmor/tree/master/Standard/Version1.0.0
+       https://github.com/EFArmorSupport/EFArmor/tree/master/Standard/Version1.0.1
 
 # 购买/注册软件
     1）EFArmor Standard可以供您用于评估，或免费使用（没有时间限制）；
