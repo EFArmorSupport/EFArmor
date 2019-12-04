@@ -18,7 +18,7 @@
 
     There are 32-bit and 64-bit architecture. 
     
-    Features in version 1.0.0:
+    Features
     1) Simplized File Explorer: Navigate computer's files/folders.
     2) Keyring Management: Create/View/Delete keyring which encrypt/decrypt files.
     3) Encryption/Decryption panel: Execute encryption and decryption operations.
