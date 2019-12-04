@@ -34,9 +34,7 @@
        C. Install it as guide of Windows Store.
        Note: There is only 64-bits available in Windows Store.
     2) Download it here directly:
-       https://github.com/EFArmorSupport/EFArmor/tree/master/Standard/Version1.0.0
-       Note: 
-    
+       https://github.com/EFArmorSupport/EFArmor/tree/master/Standard/Version1.0.1
 
 # Purchase and register software
     1) EFArmor Standard is free to use or for evaluation(without time limitation).
