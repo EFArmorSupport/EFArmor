@@ -20,10 +20,10 @@
        以确保该文件没有被篡改过。
     
     软件支持的操作系统平台： 
-    **Microsoft Windows 操作系统**：Windows Vista 或以上平台。
+    Microsoft Windows 操作系统：Windows Vista 或以上平台。
     建议您使用 Windows 10 系统运行本软件。
     EFArmor在Windows平台中有32位和64位两个版本，功能特性完全一致。
-    **Mac平台**：从EFArmor Version 1.5.0开始，支持最新的macOS - Catalina.
+    Mac平台：从EFArmor Version 1.5.0开始，支持最新的macOS - Catalina.
     
 # 版本：
     1）正式发布：Version 1.0.1
