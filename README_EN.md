@@ -12,8 +12,8 @@
     very useful to protect your private photos/files/documents stored
     in them at the same time. 
 
-    EFArmor uses standard crypto algorithms(RSA/AES...) and PGP like
-    protocol to encrypt files. It is easy to use and support different
+    EFArmor uses OpenSSL as the crypto engine and PGP like protocol 
+    to encrypt files. It is easy to use and support different
     crypto algorithms which you can adjust as needed.
 
     There are 32-bit and 64-bit architecture. 
@@ -26,6 +26,11 @@
     
     Supported Operation System:
     1) Microsoft Windows: Windows Vista or above. Windows 10 is recommended.
+    2) Mac: We support Mac platform since EFArmor Version 1.5.0
+
+# Versions:
+    1) Official Release: Version 1.0.1
+    2) Coming soon: Version 1.5.0.
        
 # How To Get?
     1) Microsoft Store:
@@ -41,6 +46,7 @@
     2) Only one crypto algorithm(AES) is supported to encrypt files before registation.
        You may get full crypto algorithms after registation.
        A. Data encryption algorithms: RC2, RC4, AES, DES, DESX, 3DES, 3DES_112 
+       New algorithms are added since version 1.5.0: BLOWFISH, CAST5, IDEA
        B. Hash algorithms: MD5, SHA1, SHA256, SHA384, SHA512
     3）Register software:
        Send your registation request to e-mail: efarmor@outlook.com
