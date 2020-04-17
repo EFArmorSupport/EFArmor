@@ -24,17 +24,17 @@
     建议您使用 Windows 10 系统运行本软件。
     EFArmor在Windows平台中有32位和64位两个版本，功能特性完全一致。
     Mac平台：从EFArmor Version 1.5.0开始，支持最新的macOS - Catalina.
+    (因为一些意外因素，Mac版本暂时无法发布。)
     
 # 版本：
-    1）正式发布：Version 1.0.1
-    2）下个版本：Version 1.5.0
+    1）正式发布：Version 1.5.0
        
 # 下载：
     1）通过Microsoft Store安装：在Microsoft的应用商店中搜索"EFArmor"，
        或者是“高级加密软件EFArmor”，然后点击安装。
        通过应用商店的安装的方式只适用于Windows 10的用户；并且只有64位版本。
     2）您可以通过如下的地址下载：
-       https://github.com/EFArmorSupport/EFArmor/tree/master/Standard/Version1.0.1
+       https://github.com/EFArmorSupport/EFArmor/tree/master/Standard/Version1.5.0
 
 # 购买/注册软件
     1）EFArmor Standard可以供您用于评估，或免费使用（没有时间限制）；
@@ -49,8 +49,7 @@
        A. 注册软件需要的信息，仅仅用于注册软件，不会用于其它任何商业用途。
        B. 除非得到您的同意，不会向您的电子邮件地址发送任何有关EFArmor信息。
        
-    r）注册费用：150 RMB。
-       优惠期间：120 RMB，时间：2019-11-21 至 2020-01-30。
+    3）注册费用：120 RMB。
 
 # 联系方式：
 

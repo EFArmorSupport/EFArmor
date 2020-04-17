@@ -26,11 +26,12 @@
     
     Supported Operation System:
     1) Microsoft Windows: Windows Vista or above. Windows 10 is recommended.
-    2) Mac: We support Mac platform since EFArmor Version 1.5.0
+    2) Mac: We support Mac platform since EFArmor Version 1.5.0.
+    (The Mac version is postponed for some reasons. I may update it if there
+    are progress.)
 
 # Versions:
-    1) Official Release: Version 1.0.1
-    2) Coming soon: Version 1.5.0.
+    1) Official Release: Version 1.5.0 for Windows platform.
        
 # How To Get?
     1) Microsoft Store:
@@ -39,7 +40,7 @@
        C. Install it as guide of Windows Store.
        Note: There is only 64-bits available in Windows Store.
     2) Download it here directly:
-       https://github.com/EFArmorSupport/EFArmor/tree/master/Standard/Version1.0.1
+       https://github.com/EFArmorSupport/EFArmor/tree/master/Standard/Version1.5.0
 
 # Purchase and register software
     1) EFArmor Standard is free to use or for evaluation(without time limitation).
@@ -57,9 +58,7 @@
        A. All registration request information are ONLY USED in EFArmor's registration.
        B. We don't send you any AD of EFArmor in your e-mail box without your agreement.
        
-    4）Fee for registation: 150 RMB.
-       Limited time Offer: 120 RMB, Time: 2019/11/21 - 2020/01/30.
-
+    4）Fee for registation: 120 RMB.
 
 # Contact:
 QQ: 418754948
